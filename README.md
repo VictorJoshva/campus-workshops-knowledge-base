@@ -1,4 +1,4 @@
-# campus-workshops-knowledge-base
+# campus-workshops-knowledge-base BNMIT
 
 Knowledge Base for Campus Workshops
 
